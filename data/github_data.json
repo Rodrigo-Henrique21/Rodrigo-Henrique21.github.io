@@ -1,0 +1,190 @@
+{
+  "profile": {
+    "username": "Rodrigo-Henrique21",
+    "name": "Rodrigo",
+    "bio": "Sempre aberto a novas oportunidades de alinhar conhecimento técnico com transformação do mundo a minha volta, venho trabalhando na área de tecnologia da informa",
+    "location": "São Paulo",
+    "company": "Stefanini Global Digital IT Solutions",
+    "blog": "https://www.linkedin.com/in/rodrigo-engenheirodedados/",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95323435?v=4",
+    "html_url": "https://github.com/Rodrigo-Henrique21",
+    "twitter_username": "Ro",
+    "public_repos": 43,
+    "followers": 43,
+    "following": 13,
+    "created_at": "2021-12-01T00:44:38Z"
+  },
+  "statistics": {
+    "total_public_repos": 43,
+    "total_followers": 43,
+    "total_following": 13,
+    "top_languages": {
+      "Python": {
+        "bytes": 81396292,
+        "percentage": 96.02
+      },
+      "Jupyter Notebook": {
+        "bytes": 856241,
+        "percentage": 1.01
+      },
+      "TypeScript": {
+        "bytes": 806657,
+        "percentage": 0.95
+      },
+      "C": {
+        "bytes": 536295,
+        "percentage": 0.63
+      },
+      "C++": {
+        "bytes": 353820,
+        "percentage": 0.42
+      },
+      "HTML": {
+        "bytes": 261827,
+        "percentage": 0.31
+      },
+      "Cython": {
+        "bytes": 160158,
+        "percentage": 0.19
+      },
+      "JavaScript": {
+        "bytes": 150337,
+        "percentage": 0.18
+      },
+      "CSS": {
+        "bytes": 136021,
+        "percentage": 0.16
+      },
+      "Fortran": {
+        "bytes": 36085,
+        "percentage": 0.04
+      }
+    }
+  },
+  "featured_repositories": [
+    {
+      "name": "data_pipeline_airflow_dbt",
+      "description": "Projeto destinado ao canal do YouTube 'Nerds sem estudos' que tem a finalidade de trazer conceitos fundamentais de codificação e conhecimentos em ferramentas como airflow e dbt além de proporcionar oportunidades de aprendizados na área de dados/analytics como um todo ",
+      "url": "https://github.com/Rodrigo-Henrique21/data_pipeline_airflow_dbt",
+      "stars": 35,
+      "language": "Python",
+      "languages": {
+        "Python": 17088,
+        "Dockerfile": 700
+      },
+      "created_at": "2024-12-01T06:55:02Z",
+      "updated_at": "2026-03-24T00:59:56Z",
+      "fork": false
+    },
+    {
+      "name": "Rodrigo-Henrique21",
+      "description": "Sem descrição",
+      "url": "https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21",
+      "stars": 9,
+      "language": null,
+      "languages": {},
+      "created_at": "2022-08-24T15:01:17Z",
+      "updated_at": "2026-03-24T02:40:23Z",
+      "fork": false
+    },
+    {
+      "name": "Extrator_De_Dados_API",
+      "description": "Este projeto contempla um extrator de dados baseado nos EndPoint fornecidos pela OMI ",
+      "url": "https://github.com/Rodrigo-Henrique21/Extrator_De_Dados_API",
+      "stars": 5,
+      "language": "Python",
+      "languages": {
+        "Python": 27669
+      },
+      "created_at": "2022-08-17T19:32:47Z",
+      "updated_at": "2026-01-08T01:33:35Z",
+      "fork": false
+    },
+    {
+      "name": "projeto_big_data_ciencia_dos_dados",
+      "description": "trabalho referente ao exploratório de vendas de e-commerce",
+      "url": "https://github.com/Rodrigo-Henrique21/projeto_big_data_ciencia_dos_dados",
+      "stars": 4,
+      "language": "Jupyter Notebook",
+      "languages": {
+        "Jupyter Notebook": 856241
+      },
+      "created_at": "2022-08-26T19:42:11Z",
+      "updated_at": "2026-03-03T15:40:31Z",
+      "fork": false
+    },
+    {
+      "name": "sspDataCloud",
+      "description": "Repositório destinado ao desenvolvimento do projeto de analise dados criminais da secretaria de segurança publica ",
+      "url": "https://github.com/Rodrigo-Henrique21/sspDataCloud",
+      "stars": 2,
+      "language": "Python",
+      "languages": {
+        "Python": 19525
+      },
+      "created_at": "2025-03-24T01:27:12Z",
+      "updated_at": "2025-10-16T18:06:12Z",
+      "fork": false
+    },
+    {
+      "name": "bots_de_sinais",
+      "description": "Sem descrição",
+      "url": "https://github.com/Rodrigo-Henrique21/bots_de_sinais",
+      "stars": 2,
+      "language": "Python",
+      "languages": {
+        "Python": 7588
+      },
+      "created_at": "2023-10-25T10:09:54Z",
+      "updated_at": "2025-07-17T20:44:47Z",
+      "fork": false
+    },
+    {
+      "name": "airflow_Case_Beers",
+      "description": "Repositório destinado ao desenvolvimento do projeto referente ao case apresentado",
+      "url": "https://github.com/Rodrigo-Henrique21/airflow_Case_Beers",
+      "stars": 1,
+      "language": "Python",
+      "languages": {
+        "Python": 81308939,
+        "TypeScript": 806657,
+        "C": 536295,
+        "C++": 353820,
+        "HTML": 261827,
+        "Cython": 160158,
+        "JavaScript": 150337,
+        "CSS": 136021,
+        "Fortran": 36085,
+        "PowerShell": 25697,
+        "Mako": 14800,
+        "Smarty": 8486,
+        "TeX": 7470,
+        "Jinja": 6099,
+        "Meson": 3982,
+        "Assembly": 3086,
+        "Batchfile": 1494,
+        "Lua": 1260
+      },
+      "created_at": "2024-07-19T12:12:07Z",
+      "updated_at": "2025-10-28T03:23:36Z",
+      "fork": false
+    },
+    {
+      "name": "SEbank",
+      "description": "Simulação bancaria , banco do senai",
+      "url": "https://github.com/Rodrigo-Henrique21/SEbank",
+      "stars": 1,
+      "language": "Python",
+      "languages": {
+        "Python": 15483
+      },
+      "created_at": "2025-04-12T16:00:16Z",
+      "updated_at": "2025-08-07T03:52:31Z",
+      "fork": false
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-28T17:43:51.748857Z",
+    "total_repos_analyzed": 8
+  }
+}

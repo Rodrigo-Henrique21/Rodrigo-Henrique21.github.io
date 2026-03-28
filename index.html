@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rodrigo Correa — Portfólio</title>
+  <meta name="description" content="Portfólio profissional de Rodrigo Correa — Engenheiro de Dados, Tech Lead, Arquitetura de Dados">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header / Navegação -->
+  <header class="header" id="header">
+    <nav class="nav container">
+      <a href="#hero" class="nav__logo">&lt;RC /&gt;</a>
+      <button class="nav__toggle" id="navToggle" aria-label="Menu">
+        <i class="fas fa-bars"></i>
+      </button>
+      <ul class="nav__menu" id="navMenu">
+        <li><a href="#sobre" class="nav__link">Sobre</a></li>
+        <li><a href="#experiencia" class="nav__link">Experiência</a></li>
+        <li><a href="#projetos" class="nav__link">Projetos</a></li>
+        <li><a href="#habilidades" class="nav__link">Habilidades</a></li>
+        <li><a href="#certificacoes" class="nav__link">Certificações</a></li>
+        <li><a href="#contato" class="nav__link nav__link--cta">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero" id="hero">
+    <div class="hero__bg-shapes">
+      <div class="hero__shape hero__shape--1"></div>
+      <div class="hero__shape hero__shape--2"></div>
+      <div class="hero__shape hero__shape--3"></div>
+    </div>
+    <div class="container hero__container">
+      <div class="hero__content">
+        <p class="hero__greeting animate-on-scroll">Olá, eu sou</p>
+        <h1 class="hero__name animate-on-scroll" id="heroName">Rodrigo Correa</h1>
+        <h2 class="hero__title animate-on-scroll" id="heroTitle">Engenheiro de Dados & Tech Lead</h2>
+        <p class="hero__description animate-on-scroll" id="heroDescription"></p>
+        <div class="hero__actions animate-on-scroll">
+          <a href="#contato" class="btn btn--primary">Entre em Contato</a>
+          <a href="#projetos" class="btn btn--outline">Ver Projetos</a>
+        </div>
+        <div class="hero__social animate-on-scroll" id="heroSocial"></div>
+      </div>
+      <div class="hero__image animate-on-scroll">
+        <div class="hero__avatar">
+          <img src="" alt="Rodrigo Correa" id="heroAvatar">
+          <div class="hero__avatar-ring"></div>
+        </div>
+        <div class="hero__stats" id="heroStats"></div>
+      </div>
+    </div>
+    <a href="#sobre" class="hero__scroll-indicator">
+      <span>Scroll</span>
+      <i class="fas fa-chevron-down"></i>
+    </a>
+  </section>
+
+  <!-- Sobre Mim -->
+  <section class="section sobre" id="sobre">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Sobre Mim</h2>
+      <p class="section__subtitle animate-on-scroll">Conheça minha trajetória profissional</p>
+      <div class="sobre__grid">
+        <div class="sobre__text animate-on-scroll" id="sobreText"></div>
+        <div class="sobre__highlights animate-on-scroll" id="sobreHighlights"></div>
+      </div>
+      <div class="sobre__industries animate-on-scroll" id="sobreIndustries"></div>
+    </div>
+  </section>
+
+  <!-- Experiência -->
+  <section class="section experiencia" id="experiencia">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Experiência Profissional</h2>
+      <p class="section__subtitle animate-on-scroll">Minha trajetória no mercado de dados</p>
+      <div class="timeline" id="timeline"></div>
+    </div>
+  </section>
+
+  <!-- Projetos -->
+  <section class="section projetos" id="projetos">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Projetos</h2>
+      <p class="section__subtitle animate-on-scroll">Repositórios em destaque no GitHub</p>
+      <div class="projetos__grid" id="projetosGrid"></div>
+    </div>
+  </section>
+
+  <!-- Habilidades -->
+  <section class="section habilidades" id="habilidades">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Habilidades</h2>
+      <p class="section__subtitle animate-on-scroll">Tecnologias e conceitos que domino</p>
+      <div class="habilidades__wrapper" id="habilidadesWrapper"></div>
+    </div>
+  </section>
+
+  <!-- Certificações -->
+  <section class="section certificacoes" id="certificacoes">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Certificações</h2>
+      <p class="section__subtitle animate-on-scroll">Qualificações e credenciais profissionais</p>
+      <div class="certificacoes__grid" id="certificacoesGrid"></div>
+      <div class="educacao__section animate-on-scroll">
+        <h3 class="educacao__title"><i class="fas fa-graduation-cap"></i> Formação Acadêmica</h3>
+        <div class="educacao__grid" id="educacaoGrid"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contato -->
+  <section class="section contato" id="contato">
+    <div class="container">
+      <h2 class="section__title animate-on-scroll">Contato</h2>
+      <p class="section__subtitle animate-on-scroll">Vamos conversar sobre seu próximo projeto?</p>
+      <div class="contato__grid">
+        <div class="contato__info animate-on-scroll" id="contatoInfo"></div>
+        <form class="contato__form animate-on-scroll" id="contatoForm">
+          <div class="form__group">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome" required placeholder="Seu nome">
+          </div>
+          <div class="form__group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required placeholder="seu@email.com">
+          </div>
+          <div class="form__group">
+            <label for="assunto">Assunto</label>
+            <input type="text" id="assunto" name="assunto" required placeholder="Assunto da mensagem">
+          </div>
+          <div class="form__group">
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" rows="5" required placeholder="Sua mensagem..."></textarea>
+          </div>
+          <button type="submit" class="btn btn--primary btn--full">
+            <i class="fas fa-paper-plane"></i> Enviar Mensagem
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="footer__content">
+        <div class="footer__brand">
+          <a href="#hero" class="footer__logo">&lt;RC /&gt;</a>
+          <p class="footer__tagline">Engenharia de Dados · Arquitetura · Liderança Técnica</p>
+        </div>
+        <div class="footer__social" id="footerSocial"></div>
+      </div>
+      <div class="footer__bottom">
+        <p>&copy; <span id="currentYear"></span> Rodrigo Correa. Todos os direitos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="backToTop" aria-label="Voltar ao topo">
+    <i class="fas fa-arrow-up"></i>
+  </button>
+
+  <script src="main.js"></script>
+</body>
+</html>

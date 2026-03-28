@@ -1,0 +1,336 @@
+{
+  "full_name": "Rodrigo Correa",
+  "headline": "Coordenação e Especialista | Arquitetura de Dados | Spark | Databricks | Airflow | Azure | AWS | DataOps | Data Platform | Produtos de Dados",
+  "location": "Brasil",
+  "contact": {
+    "phone": "(19) 983697949",
+    "email": "rodrigohenrique007@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/rodrigo-especialistaemdados",
+    "github": "https://github.com/Rodrigo-Henrique21"
+  },
+  "summary": "Sou profissional de Engenharia de Dados com atuação como Tech Lead, focado em arquitetura de dados, data platforms e produtos de dados em ambientes corporativos de grande porte. Tenho experiência na construção e evolução de pipelines escaláveis, automações, governança e soluções analíticas com foco em performance, confiabilidade e valor para o negócio. Atuo conectando necessidades estratégicas às decisões técnicas, desde o levantamento AS-IS/TO-BE e desenho da solução até a implantação, sustentação e melhoria contínua. Minha stack inclui Spark, Databricks, Airflow, Python, SQL, Hadoop, Kafka, cloud e práticas de DataOps/CI-CD. Ao longo da carreira, liderei tecnicamente squads multidisciplinares e participei da construção de arquiteturas modernas de dados, com foco em: Escalabilidade e padronização de pipelines; Governança e confiabilidade de dados; Eficiência operacional e redução de lead time; Evolução de plataformas e produtos de dados. Também atuo como professor de tecnologia, o que fortalece minha comunicação e capacidade de acelerar times.",
+  "experience": [
+    {
+      "company": "Bradesco",
+      "total_duration": "1 ano 8 meses",
+      "roles": [
+        {
+          "title": "Tech Lead",
+          "period": "outubro de 2025 - Presente",
+          "duration": "6 meses",
+          "location": "",
+          "responsibilities": [
+            "Liderança técnica de squad multidisciplinar com 12 profissionais (Data Engineers, Analytics Engineers e Cientistas de Dados), atuando na arquitetura de produtos de dados críticos para as áreas de Crédito, Risco e CRM.",
+            "Interface estratégica com Produto, Compliance, Arquitetura de Soluções e Segurança, garantindo que 100% dos projetos atendam às normas de LGPD e padrões de auditoria bancária.",
+            "Gestão de indicadores de SLA (99.9% de disponibilidade), redução de 64,3% no Lead Time de entrega de novas features e otimização de 55% nos custos de processamento (FinOps).",
+            "Conduzi o discovery técnico (AS-IS/TO-BE) para migração de sistemas legados, definindo arquitetura de Lakehouse (Delta Lake) para suportar volumes superiores a 5 TB/dia.",
+            "Evoluí pipelines escaláveis com Airflow + Spark/PySpark, implementando processamento distribuído que reduziu o tempo de processamento noturno (batch) em 4 horas.",
+            "Implementei esteiras de CI/CD via GitHub Actions e Bitbucket, integrando análise de qualidade com SonarQube e testes automatizados, elevando a confiabilidade e reduzindo incidentes em produção em 40%.",
+            "Atuação como referência técnica em Data Mesh e Data Vault, promovendo a descentralização dos dados e capacitando o time em tecnologias de ponta (Kafka, Flink e dbt)."
+          ]
+        },
+        {
+          "title": "Engenheiro de dados",
+          "period": "agosto de 2024 - Presente",
+          "duration": "1 ano 8 meses",
+          "location": "São Paulo, Brasil",
+          "responsibilities": [
+            "Mapei fluxos ponta a ponta (origem → transformação → consumo) de +80 fontes de dados, otimizando a latência de ingestão para cenários de Near Real-Time.",
+            "Desenvolvi pipelines de ingestão e transformação em larga escala utilizando Hadoop e Spark, suportando modelos de Machine Learning (TensorFlow/Scikit-learn) para tomada de decisão em tempo real.",
+            "Aprimorei o ciclo de desenvolvimento através de automações em Python, implementando monitoramento e observabilidade que anteciparam falhas de schema em 60% dos casos antes do impacto no negócio.",
+            "Estruturação de bases relacionais e NoSQL (MySQL e MongoDB) utilizando padrões de Modelagem Dimensional e Data Vault, garantindo escalabilidade para consultas analíticas complexas."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "SENAI Campinas - Roberto Mange",
+      "total_duration": "1 ano 3 meses",
+      "roles": [
+        {
+          "title": "Professor de tecnologia da informação",
+          "period": "janeiro de 2025 - Presente",
+          "duration": "1 ano 3 meses",
+          "location": "Campinas, São Paulo, Brasil",
+          "responsibilities": [
+            "Responsável pela capacitação técnica de +270 alunos em conceitos avançados de Cloud Computing (AWS, Azure, GCP) e Programação.",
+            "Instrutor de arquiteturas modernas de dados, Lakehouse (Delta/Iceberg/Hudi), Data Mesh, Event-Driven/Streaming, Data Warehouse/DW moderno (BigQuery, Snowflake, Redshift), Data Vault MLOps/Feature Store.",
+            "Implementação de projetos práticos integrando dispositivos IoT (Arduino/Raspberry Pi) com plataformas de nuvem (Azure IoT Hub).",
+            "Planejamento e criação de material pedagógico de alto nível, abrangendo desde modelagem de bancos de dados até frameworks de Machine Learning e Inteligência Artificial.",
+            "Orientação de projetos finais em equipes multidisciplinares, aplicando metodologias Scrum e Kanban.",
+            "Estruturação e manutenção de ambientes de aprendizado em nuvem e laboratórios virtuais."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Stefanini Brasil",
+      "total_duration": "2 anos 1 mês",
+      "roles": [
+        {
+          "title": "Tech Lead",
+          "period": "novembro de 2022 - agosto de 2024",
+          "duration": "1 ano 10 meses",
+          "location": "",
+          "responsibilities": [
+            "Atuação como Tech Lead da equipe de Dados com 8 engenheiros (Data Engineers e Analytics Engineers).",
+            "Condução de rituais técnicos semanais, code reviews estruturados e sessões de mentoria, elevando o nível de maturidade do time e reduzindo retrabalho em aproximadamente 30%.",
+            "Atuação consultiva junto a C-Levels e Stakeholders para priorização de backlog técnico.",
+            "Instituí práticas de DataOps e Observabilidade, promovendo a colaboração entre Engenharia e Infraestrutura.",
+            "Arquitetei e implementei a transição para Data Mesh, definindo domínios de dados e contratos de consumo que aumentaram a autonomia das áreas de negócio em 50%.",
+            "Liderança na adoção de pipelines de CI/CD com Jenkins, GitLab CI e Docker, reduzindo o tempo de deploy de novas features de dias para horas."
+          ]
+        },
+        {
+          "title": "Engenheiro de dados",
+          "period": "agosto de 2022 - agosto de 2024",
+          "duration": "2 anos 1 mês",
+          "location": "São Paulo, Brasil",
+          "responsibilities": [
+            "Desenvolvimento e manutenção de estruturas de dados em PostgreSQL, MySQL e MongoDB.",
+            "Estruturei e otimizei bases PostgreSQL, MySQL e MongoDB, com ganhos de performance de até 40% em relatórios analíticos.",
+            "Implementei pipelines escaláveis via Apache Airflow, garantindo SLAs críticos para ingestão de dados batch e near real-time.",
+            "Desenvolvi algoritmos avançados em Python (Scikit-learn/TensorFlow) para modelos preditivos.",
+            "Arquitetura e implementação de soluções de processamento distribuído com Hadoop e Spark (PySpark) para bilhões de registros.",
+            "Atuação em squads multidisciplinares com métodos ágeis (Scrum/Kanban).",
+            "Contribuí na definição de padrões de interoperabilidade e documentação técnica na arquitetura Data Mesh."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Invictus Data & AI",
+      "total_duration": "6 meses",
+      "roles": [
+        {
+          "title": "Analista de dados",
+          "period": "maio de 2022 - outubro de 2022",
+          "duration": "6 meses",
+          "location": "",
+          "responsibilities": [
+            "Atuação em projeto corporativo focado em melhoria de qualidade e governança de dados.",
+            "Desenvolvimento de painéis interativos em Power BI e Tableau, reduzindo o tempo de obtenção de insights de dias para horas.",
+            "Projeção e implementação de pipelines de dados robustos para ETL utilizando Apache NiFi, Azure Data Factory, PySpark e Python.",
+            "Configuração e gerenciamento de recursos em múltiplos provedores de nuvem (AWS, Azure e GCP).",
+            "Desenvolvimento da arquitetura completa de Arquitetura Event-Driven modelo Spoke.",
+            "Redução de aproximadamente 43.87% no tempo de preparação de dados através da implantação de pipelines ETL."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "FIS",
+      "total_duration": "7 meses",
+      "roles": [
+        {
+          "title": "Analista de dados",
+          "period": "novembro de 2021 - maio de 2022",
+          "duration": "7 meses",
+          "location": "Jundiaí, SP",
+          "responsibilities": [
+            "Projetei e implementei uma arquitetura orientada a eventos (Event-Driven) utilizando Apache Kafka.",
+            "Concepção de uma estrutura de Lakehouse baseada em Delta Lake, unificando camadas de dados transacionais e analíticos.",
+            "Implementei pipelines de Stream Processing com PySpark Streaming e Python, reduzindo a latência de disponibilidade dos dados de horas para milissegundos.",
+            "Estruturei fluxos complexos de ingestão e transformação utilizando Azure Data Factory (ADF) e Apache NiFi.",
+            "Liderança em iniciativas de FinOps, resultando em uma economia recorrente de 25% nos custos de infraestrutura em nuvem.",
+            "Instituí frameworks de Data Quality e Observabilidade, reduzindo o tempo de detecção de falhas (MTTD) em 50%.",
+            "Desenvolvi dashboards de monitoramento em tempo real em Power BI e Tableau.",
+            "A nova infraestrutura elevou a eficiência operacional em 40%."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Dupla Energy - Gestão de energia elétrica",
+      "total_duration": "2 anos 3 meses",
+      "roles": [
+        {
+          "title": "Analista de dados",
+          "period": "fevereiro de 2019 - abril de 2021",
+          "duration": "2 anos 3 meses",
+          "location": "Campinas, São Paulo, Brasil",
+          "responsibilities": [
+            "Responsável pela manutenção e evolução do ecossistema de Business Intelligence do setor comercial, utilizando MySQL, SSIS e SAS.",
+            "Implementação de rotinas de automação e pipelines de deploy via GitLab CI.",
+            "Desenvolvimento de algoritmos em Python (NumPy/Pandas) para processamento de dados e criação de dashboards de performance.",
+            "Introdução de testes unitários nos processos de dados e concepção de arquitetura Data Warehouse (DW), Data Mart, Batch-Oriented Architecture."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "SellerX",
+      "total_duration": "1 ano 3 meses",
+      "roles": [
+        {
+          "title": "Assistente de dados",
+          "period": "março de 2017 - março de 2018",
+          "duration": "1 ano 1 mês",
+          "location": "Campinas, São Paulo, Brasil",
+          "responsibilities": [
+            "Construção e manutenção de pipelines de dados.",
+            "Tarefas básicas de ETL (Extração, Transformação e Carga).",
+            "Trabalho com ferramentas como Apache Spark, Hadoop.",
+            "Automação de processos de ingestão de dados.",
+            "Criação e manutenção de políticas de governança de dados.",
+            "Análises exploratórias com Python, R e SQL.",
+            "Criação de visualizações de dados usando Power BI, Tableau e Matplotlib.",
+            "Auxílio na preparação de datasets para treinamento de modelos de ML."
+          ]
+        },
+        {
+          "title": "Aprendiz",
+          "period": "janeiro de 2017 - março de 2017",
+          "duration": "3 meses",
+          "location": "Campinas, São Paulo, Brasil",
+          "responsibilities": []
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fundação Getulio Vargas",
+      "degree": "Mestrado em Tecnologia da Informação",
+      "field": "Information Technology",
+      "period": "junho de 2024 - janeiro de 2026"
+    },
+    {
+      "institution": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "degree": "Gestão de projetos e metodologia ágeis",
+      "field": "Information Technology Project Management",
+      "period": "fevereiro de 2025 - fevereiro de 2026"
+    },
+    {
+      "institution": "Centro Universitário FMU | FIAM-FAAM",
+      "degree": "Pós-graduação Lato Sensu - Especialização",
+      "field": "Ciência de Dados e Big Data Analytics",
+      "period": "agosto de 2024 - junho de 2025"
+    },
+    {
+      "institution": "Pontifícia Universidade Católica do Paraná",
+      "degree": "Pós-graduação Lato Sensu - Especialização",
+      "field": "Arquitetura de software e Ciência de dados",
+      "period": "março de 2023 - fevereiro de 2024"
+    },
+    {
+      "institution": "Universidade São Francisco",
+      "degree": "Bacharelado",
+      "field": "Engenharia de Computação",
+      "period": "janeiro de 2019 - julho de 2022"
+    }
+  ],
+  "skills": {
+    "primary": [
+      "Docker, Kubernetes e Terraform",
+      "Python avançado (ETL / ELT / automação)",
+      "CI/CD aplicado a dados"
+    ],
+    "technologies": [
+      "Apache Spark / PySpark",
+      "Databricks",
+      "Apache Airflow",
+      "Apache Kafka",
+      "Apache Flink",
+      "Apache NiFi",
+      "Hadoop",
+      "Delta Lake",
+      "dbt",
+      "Python",
+      "SQL",
+      "R",
+      "Azure (Azure Data Factory, Azure IoT Hub, Azure Blob Storage, Azure SQL Database)",
+      "AWS (EC2, S3, RDS)",
+      "GCP (Compute Engine, Cloud Storage, BigQuery)",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Power BI",
+      "Tableau",
+      "TensorFlow",
+      "Scikit-learn",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "GitLab CI",
+      "GitHub Actions",
+      "Bitbucket",
+      "SonarQube",
+      "SAS",
+      "SSIS",
+      "Snowflake",
+      "Redshift"
+    ],
+    "concepts": [
+      "Arquitetura de Dados",
+      "Data Mesh",
+      "Data Vault",
+      "Lakehouse Architecture",
+      "Event-Driven Architecture",
+      "DataOps",
+      "FinOps",
+      "MLOps",
+      "Modelagem Dimensional",
+      "Data Warehouse / Data Mart",
+      "ETL / ELT",
+      "Stream Processing",
+      "Batch Processing",
+      "Near Real-Time",
+      "Governança de Dados",
+      "Data Quality / Observabilidade",
+      "CI/CD para dados",
+      "Clean Code / Code Review",
+      "Scrum / Kanban",
+      "LGPD"
+    ]
+  },
+  "certifications": [
+    "Databricks Certified Data Engineer Associate",
+    "Microsoft Certified Trainer",
+    "Databricks Arquiteto da Plataforma Azure",
+    "Microsoft Certified: Power BI Associate Data Analyst",
+    "ETL com Integration Services: modelo de dados"
+  ],
+  "languages": [
+    {
+      "language": "Inglês Técnico",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Espanhol",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Português",
+      "proficiency": "Nativo"
+    }
+  ],
+  "highlights": {
+    "years_of_experience": "9+",
+    "leadership": "Liderança técnica de squads com até 12 profissionais",
+    "key_achievements": [
+      "Redução de 64,3% no Lead Time de entrega de novas features (Bradesco)",
+      "Otimização de 55% nos custos de processamento - FinOps (Bradesco)",
+      "SLA de 99.9% de disponibilidade (Bradesco)",
+      "Redução de incidentes em produção em 40% com CI/CD (Bradesco)",
+      "Arquitetura Lakehouse para +5 TB/dia (Bradesco)",
+      "Aumento de 50% na autonomia das áreas de negócio com Data Mesh (Stefanini)",
+      "Redução de 30% em retrabalho com code reviews (Stefanini)",
+      "Capacitação de +270 alunos em tecnologia (SENAI)",
+      "Economia de 25% em custos de infraestrutura cloud (FIS)",
+      "Redução de ~44% no tempo de preparação de dados (Invictus)"
+    ],
+    "industries": [
+      "Bancário / Financeiro",
+      "Tecnologia / Consultoria",
+      "Energia",
+      "E-commerce",
+      "Educação",
+      "Pagamentos / Fintech"
+    ]
+  }
+}
